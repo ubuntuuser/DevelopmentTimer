@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "johannes.doblmann@gmail.com",
+    "longName": "Film Development Timer",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Film Development Timer",
+    "uuid": "5930d11d-ef44-4de7-9761-6141e9d2b0ba",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
